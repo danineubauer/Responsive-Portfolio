@@ -1,0 +1,24 @@
+
+* { 
+    border: 1px solid red !important;
+}
+
+body { 
+    background: #777; 
+}
+
+.section {
+    background: white; 
+    width: 960px;
+    height: 400px;
+    
+}
+
+h1 { 
+    float: left;
+}
+
+h2, h3, h4 {
+    float: right;
+    margin: 5%;
+}
